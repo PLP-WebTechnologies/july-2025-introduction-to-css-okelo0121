@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?cs=srgb&dl=pexels-hngstrm-1939485.jpg&fm=jpg&_gl=1*xs8pkj*_ga*Njc0NDAzMDM0LjE3NTQzMDg1MzY.*_ga_8JE65Q40S6*czE3NTUwNzcyMjckbzgkZzEkdDE3NTUwNzcyNzUkajEyJGwwJGgw");
+}
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+h2, h3 {
+    color: #333;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+video, audio {
+    display: block;
+    margin: 10px 0;
+}
+
+table {
+    width: 100%;
+    
+    margin: 20px 0;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    background-color: white;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+form {
+    margin: 20px 0;
+}
